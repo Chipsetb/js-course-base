@@ -162,7 +162,7 @@ console.log(person['lastName']);
 const key = 'year'
 console.log(person[key]);
 person.hasWife = true
-person.isProgrammer = true
+person.isProgrammer = falce
 console.log(person);
 
 person.greet()
